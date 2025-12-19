@@ -3,13 +3,11 @@
 #include <stack>
 #include <algorithm>
 using namespace std;
-
 stack<char> st;
 
 void push(char c) {
     st.push(c);
 }
-
 char pop() {
     char x = st.top();
     st.pop();
