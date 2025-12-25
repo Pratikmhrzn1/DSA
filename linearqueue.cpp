@@ -60,6 +60,7 @@ int main(){
 	Queue q(4);
 	int choice;
 	do{
+		cout<<"\nPratik Maharjan\n";
 		cout<<"\nMenu:"<<endl;
 		cout<<"\n1.Enqueue\n2.Dequeue\n3.MakeEmpty\n4.Display\n5.Exit"<<endl;
 		cout<<"\nEnter your choice:";
