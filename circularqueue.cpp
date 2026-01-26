@@ -86,5 +86,6 @@ int main(){
 				cout<<"Invalid choice!";	
 		}
 	}while(choice!=4);
+	cout<<"\nPratik Maharjan\n";
 	return 0;
 }
